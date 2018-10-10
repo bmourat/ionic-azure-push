@@ -1,0 +1,7 @@
+{
+  "name": "AZPush",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
