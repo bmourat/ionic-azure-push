@@ -22,7 +22,7 @@ export class HomePage {
     this.client = new WindowsAzure.MobileServiceClient('http://bmourat.azurewebsites.net');
     const options: PushOptions = {
       android: {
-        senderID: '1031320738669'
+        senderID: 'YOUR_SENDER_ID'
       },
       ios: {
         alert: 'true',
